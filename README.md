@@ -1,0 +1,38 @@
+# interset-wq's Star List
+
+> **600** repos starred | Updated: 2026-09-06
+
+---
+
+- [Python (184)](python.md)
+- [TypeScript (89)](typescript.md)
+- [JavaScript (84)](javascript.md)
+- [Other (41)](other.md)
+- [C++ (31)](c++.md)
+- [Shell (20)](shell.md)
+- [Rust (18)](rust.md)
+- [C (17)](c.md)
+- [HTML (16)](html.md)
+- [Jupyter Notebook (15)](jupyter-notebook.md)
+- [Go (12)](go.md)
+- [Java (11)](java.md)
+- [Dart (11)](dart.md)
+- [CSS (9)](css.md)
+- [Vue (7)](vue.md)
+- [Kotlin (4)](kotlin.md)
+- [C# (4)](csharp.md)
+- [MDX (3)](mdx.md)
+- [Markdown (3)](markdown.md)
+- [Batchfile (3)](batchfile.md)
+- [GDScript (2)](gdscript.md)
+- [SCSS (2)](scss.md)
+- [Ruby (2)](ruby.md)
+- [CMake (2)](cmake.md)
+- [Makefile (2)](makefile.md)
+- [Lua (2)](lua.md)
+- [Inno Setup (1)](inno-setup.md)
+- [reStructuredText (1)](restructuredtext.md)
+- [AGS Script (1)](ags-script.md)
+- [PowerShell (1)](powershell.md)
+- [Dockerfile (1)](dockerfile.md)
+- [Swift (1)](swift.md)
